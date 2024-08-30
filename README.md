@@ -22,7 +22,9 @@ The details of the datasets used and their specific links are provided here for 
 ![ISIC](/demo/ISIC_0000006.jpg)
 
 [ISIC 2016 Task1](https://challenge.isic-archive.com/data/):It includes 900 images for training and 379 images for testing.
+
 [ISIC2017 Task1](https://challenge.isic-archive.com/data/#2017):It includes 2000 images for training and 600 images for testing.We did not use validation data.
+
 [ISIC2018 Task1](https://challenge.isic-archive.com/data/#2018):It includes 2594 images for training and 1000 images for testing.We did not use validation data.
 
 ### **PH<sup>2</sup>**
