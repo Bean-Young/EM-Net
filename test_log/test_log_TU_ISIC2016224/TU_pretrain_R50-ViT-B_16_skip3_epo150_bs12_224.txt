@@ -1,0 +1,12 @@
+[15:48:56.458] Namespace(Dataset=<class 'dataset_skin.Skin_dataset'>, base_lr=0.01, batch_size=12, dataset='ISIC2016', deterministic=1, exp='TU_ISIC2016224', img_size=224, is_pretrain=True, is_savenii='True', list_dir='/home/yyz/Project-Skin/lists/lists_ISIC2016', max_epochs=150, max_iterations=20000, n_skip=3, num_classes=2, number_domain=10, seed=1234, test_save_dir='./predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='/home/yyz/Project-Skin/data/ISIC2016/test_vol_h5', z_spacing=1)
+[15:48:56.459] TU_pretrain_R50-ViT-B_16_skip3_epo150_bs12_224
+[15:48:56.459] 1 test iterations per epoch
+[15:48:57.718] idx 0 case 0000003 mean_dice 0.983443 mean_hd95 6.082763
+[15:48:57.767] Mean class 1 mean_dice 0.983443 mean_hd95 6.082763
+[15:48:57.768] Testing performance in best val model: mean_dice : 0.983443 mean_hd95 : 6.082763
+[15:57:57.435] Namespace(Dataset=<class 'dataset_skin.Skin_dataset'>, base_lr=0.01, batch_size=12, dataset='ISIC2016', deterministic=1, exp='TU_ISIC2016224', img_size=224, is_pretrain=True, is_savenii='True', list_dir='/home/yyz/Project-Skin/lists/lists_ISIC2016', max_epochs=150, max_iterations=20000, n_skip=3, num_classes=2, number_domain=10, seed=1234, test_save_dir='./predictions', vit_name='R50-ViT-B_16', vit_patches_size=16, volume_path='/home/yyz/Project-Skin/data/ISIC2016/test_vol_h5', z_spacing=1)
+[15:57:57.435] TU_pretrain_R50-ViT-B_16_skip3_epo150_bs12_224
+[15:57:57.436] 1 test iterations per epoch
+[15:57:58.661] idx 0 case 0000003 mean_dice 0.979633 mean_hd95 7.071068
+[15:57:58.718] Mean class 1 mean_dice 0.979633 mean_hd95 7.071068
+[15:57:58.718] Testing performance in best val model: mean_dice : 0.979633 mean_hd95 : 7.071068
