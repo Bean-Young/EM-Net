@@ -119,7 +119,7 @@ We have packaged the visualization tools, and you only need to run [`out.py`](/o
 To better utilize the code, we have provided a brief explanation of the code structure.
 
 - **RootFolder/**
-  - **MM/**: Code for the morphology awareness module
+  - **MM/**: Code for the morphology-aware module
   - **data/**: Directory for storing training and testing data in NumPy format
     - **ISIC2016/**
       - **train_npz/**: Contains preprocessed training data
