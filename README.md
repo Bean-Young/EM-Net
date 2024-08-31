@@ -113,38 +113,6 @@ To better demonstrate the segmentation results, we have provided visualization c
 
 We have packaged the visualization tools, and you only need to run [`out.py`](/output/out.py) to use them.
 
-
-## ***Code Structure***
-
-To better utilize the code, we have provided a brief explanation of the code structure.
-
-- **RootFolder/**
-  - **MM/**: Code for the morphology-aware module
-  - **data/**: Directory for storing training and testing data in NumPy format
-    - **ISIC2016/**
-      - **train_npz/**: Contains preprocessed training data
-      - **test_vol_h5/**: Contains preprocessed test data
-    - **ISIC2017/**
-    - **...**
-  - **data_image/**: Directory for storing original skin lesion images
-  - **dataset/**
-    - **dataloader.py**: Data loader for training and testing phases
-  - **lists/**: Directory containing data lists
-  - **model/**: Directory for pre-trained weights
-  - **networks/**: Core components of the model
-  - **output/**: Code for the visualization module
-  - **output_image**: Directory for storing visualization results
-  - **predictions**: Directory for storing network prediction results
-  - **test_log**: Directory for storing network status outputs
-  - **Prepare_data.py**: Main function code for data preprocessing
-  - **lists.py**: Main function code for generating data lists
-  - **train.py**: Main function code for training the model
-  - **trainer.py**: Code for setting up the trainer
-  - **test.py**: Main function code for testing the model
-  - **utils.py**: Code for setting parameters
-
-This structure helps to navigate through the project and locate specific functionalities efficiently.
-
 ## ***References***
 1) [**TransUnet**](https://github.com/Beckschen/TransUNet)
 2) [**Field of Junctions**](https://github.com/dorverbin/fieldofjunctions)
