@@ -70,7 +70,7 @@ You need to download Google's pre-trained ViT model, which can be obtained throu
 ## ***Data Preprocessing***
 
 Data preprocessing is divided into two stages: 
-1) We convert the data into a uniform format 
+1) We convert the data into a NPY format 
 2) We generate a list of all the data to be used.
 
 To better adapt the input for deep learning networks and ensure optimal network performance, we need to preprocess the data. We have provided a packaged preprocessing and Morphology-aware Module(MM). You only need to run [`Prepare_data.py`](Prepare_data.py), or use the following commands to preprocess the files. The data will be uniformly converted into NPZ format, with each file containing the original unprocessed images, images obtained through the MM module, and binarized mask images.
@@ -120,4 +120,6 @@ We have packaged the visualization tools, and you only need to run [`out.py`](/o
 ## ***Citation***
 
 ```
+Zhu, Kaiwen and Yang, Yuezhe and Chen, Yonglin and Feng, Ruixi and Chen, Dongping and Fan, Bingzhi and Liu, Nan and Li, Ying and Wang, Xuewen, Em-Net: Effective and Morphology-Aware Network for Skin Lesion Segmentation. Available at SSRN: https://ssrn.com/abstract=4939564 or http://dx.doi.org/10.2139/ssrn.4939564
+
 ```
