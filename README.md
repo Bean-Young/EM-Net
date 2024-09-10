@@ -120,6 +120,9 @@ We have packaged the visualization tools, and you only need to run [`out.py`](/o
 ## ***Citation***
 
 ```
-Zhu, Kaiwen and Yang, Yuezhe and Chen, Yonglin and Feng, Ruixi and Chen, Dongping and Fan, Bingzhi and Liu, Nan and Li, Ying and Wang, Xuewen, Em-Net: Effective and Morphology-Aware Network for Skin Lesion Segmentation. Available at SSRN: https://ssrn.com/abstract=4939564 or http://dx.doi.org/10.2139/ssrn.4939564
-
+@article{zhu4939564net,
+  title={Em-Net: Effective and Morphology-Aware Network for Skin Lesion Segmentation},
+  author={Zhu, Kaiwen and Yang, Yuezhe and Chen, Yonglin and Feng, Ruixi and Chen, Dongping and Fan, Bingzhi and Liu, Nan and Li, Ying and Wang, Xuewen},
+  journal={Available at SSRN 4939564}
+}
 ```
