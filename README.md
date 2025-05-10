@@ -1,6 +1,6 @@
 # EM-Net
 
-This project was created by ***Yuezhe Yang*** for the paper "**EM-Net: Effective and Morphology-aware Network for Skin Lesion Segmentation**" ([Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417425012904)).
+This project was created by [***Yuezhe Yang***](https://bean-young.github.io) for the paper "**EM-Net: Effective and Morphology-aware Network for Skin Lesion Segmentation**" ([Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417425012904)).
 
 ## ***Abstract***
 Dermoscopic images are essential for diagnosing various skin diseases, as they enable physicians to observe subepidermal structures, dermal papillae, and deeper tissues otherwise invisible to the naked eye. However, segmenting lesions in these
