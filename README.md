@@ -120,8 +120,12 @@ We have packaged the visualization tools, and you only need to run [`out.py`](/o
 ## ***Citation***
 
 ```bibtex
-@article{zhu4939564net,
-  title={Em-Net: Effective and Morphology-Aware Network for Skin Lesion Segmentation},
+@article{zhu2025net,
+  title={EM-Net: Effective and morphology-aware network for skin lesion segmentation},
   author={Zhu, Kaiwen and Yang, Yuezhe and Chen, Yonglin and Feng, Ruixi and Chen, Dongping and Fan, Bingzhi and Liu, Nan and Li, Ying and Wang, Xuewen},
-  journal={Available at SSRN 4939564}
+  journal={Expert Systems with Applications},
+  pages={127668},
+  year={2025},
+  publisher={Elsevier}
 }
+
