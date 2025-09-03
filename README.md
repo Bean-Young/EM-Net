@@ -103,7 +103,7 @@ After completing the training, you can simply run [`test.py`](test.py) to perfor
 
 However, please note that the pre-trained weights provided in the uploaded code of this project are only for demonstration purposes and should not be used directly for testing. We provided weights trained on the ISIC dataset, which you can apply for extensive validation on skin lesion image datasets.
 
->If you would like the pre-trained model for a specific dataset, please email me at *<wa2214014@stu.ahu.edu.cn>*.
+>If you would like the pre-trained model for a specific dataset, please email me.
 
 ## ***Visualization***
 
