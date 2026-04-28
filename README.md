@@ -2,9 +2,9 @@
 
 This project was created by [***Yuezhe Yang***](https://bean-young.github.io) for the paper "**EM-Net: Effective and Morphology-aware Network for Skin Lesion Segmentation**" ([Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417425012904)).
 
-[**Project Page**](https://bean-young.github.io/emnet/)
+### [**Project Page**](https://bean-young.github.io/emnet/)
 
-***Expert Systems with Applications, 2025***
+### ***Expert Systems with Applications, 2025***
 
 ## ***Abstract***
 Dermoscopic images are essential for diagnosing various skin diseases, as they enable physicians to observe subepidermal structures, dermal papillae, and deeper tissues otherwise invisible to the naked eye. However, segmenting lesions in these images is challenging due to their irregular boundaries and significant variability in lesion characteristics. To address these challenges, we propose a effective and morphology-aware network that utilizes a hybrid feature extractor combining CNN and ViT architectures. At the same time, we enhanced the proposed segmentation model. Specifically, we propose a boundary delineation component that uses a non-convex optimization function for learning general representations and accurately delineates lesion boundaries, thus enhancing the extraction of details. Additionally, we also introduce an adaptive segmentation strategy through the integration of the few-shot domain generalization module to improve the model's generalization across different datasets. Validation on multiple publicly available dermoscopic image datasets, including ISIC, PH², PAD-UFES-20, and the University of Waterloo skin cancer database, demonstrates that our method achieves state-of-the-art performance with significant improvements in Dice, Acc, Pre, IoU, and Re. These results confirm the robustness and adaptability of our model. The code is available at: https://github.com/Bean-Young/EM-Net.
